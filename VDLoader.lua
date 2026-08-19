@@ -32,7 +32,7 @@ local Camera = Workspace.CurrentCamera
 local Mouse = Player:GetMouse()
 
 -- Libraries
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Rullzyy/Scripts/main/AdwaitaLibrary.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rullzinjs/Violence-District/refs/heads/BUCIN-ABISS/VDLoader.lua"))()
 
 -- Variables
 local SurvivorMenu = {}
